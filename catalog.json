@@ -1,0 +1,68 @@
+{
+  "name": "Crypta Oficial",
+  "publisher": "Crypta",
+  "version": 1,
+  "updated": "2026-06-20",
+  "resources": [
+    {
+      "id": "linux-essentials",
+      "title": "Linux Essentials",
+      "author": "Crypta",
+      "version": "1.0.0",
+      "description": "Introducción práctica a Linux: shell, ficheros, permisos y procesos.",
+      "tags": ["linux", "shell", "principiante"],
+      "defaultFolder": "Linux",
+      "thumbnail": null,
+      "updated": "2026-06-20",
+      "url": "/resources/linux-essentials.html",
+      "sha256": null,
+      "difficulty": "Básico",
+      "estimatedTime": "45 min"
+    },
+    {
+      "id": "networking-basics",
+      "title": "Networking Basics",
+      "author": "Crypta",
+      "version": "1.0.0",
+      "description": "Fundamentos de redes: OSI, TCP/IP, direccionamiento y enrutamiento.",
+      "tags": ["redes", "tcp/ip", "principiante"],
+      "defaultFolder": "Networking",
+      "thumbnail": null,
+      "updated": "2026-06-20",
+      "url": "/resources/networking-basics.html",
+      "sha256": null,
+      "difficulty": "Básico",
+      "estimatedTime": "60 min"
+    },
+    {
+      "id": "docker-intro",
+      "title": "Docker desde cero",
+      "author": "Crypta",
+      "version": "1.0.0",
+      "description": "Contenedores, imágenes, volúmenes y Docker Compose en un solo recurso.",
+      "tags": ["docker", "contenedores", "devops"],
+      "defaultFolder": "Docker",
+      "thumbnail": null,
+      "updated": "2026-06-20",
+      "url": "/resources/docker-intro.html",
+      "sha256": null,
+      "difficulty": "Intermedio",
+      "estimatedTime": "75 min"
+    },
+    {
+      "id": "python-intro",
+      "title": "Python para empezar",
+      "author": "Crypta",
+      "version": "1.0.0",
+      "description": "Sintaxis, tipos, funciones y módulos para arrancar con Python.",
+      "tags": ["python", "programación", "principiante"],
+      "defaultFolder": "Python",
+      "thumbnail": null,
+      "updated": "2026-06-20",
+      "url": "/resources/python-intro.html",
+      "sha256": null,
+      "difficulty": "Básico",
+      "estimatedTime": "60 min"
+    }
+  ]
+}
