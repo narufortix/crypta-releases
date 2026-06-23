@@ -148,10 +148,11 @@ No es un editor. **Tú aportas los HTML, Crypta los presenta**: los lee de tu ca
 ## Estado
 
 - ✅ **Windows** — instalador NSIS estable (per-user, sin permisos admin si instalas en una ruta de usuario).
+- ✅ **Linux** — paquetes `.deb` y `.AppImage`.
 - ✅ **Demo web** — sirve para evaluar, requiere navegador Chromium.
 
 ---
 
 ## Cambios
 
-Las versiones publicadas y sus notas viven en [Releases](https://github.com/narufortix/crypta-releases/releases). Cada release incluye el `.msi` y el `.exe` (NSIS) para Windows x64.
+Las versiones publicadas y sus notas viven en [Releases](https://github.com/narufortix/crypta-releases/releases). Cada release incluye, para Windows x64, el instalador `.exe` (NSIS) y un `crypta.exe` portable; para Linux x64, paquetes `.deb` y `.AppImage`.
