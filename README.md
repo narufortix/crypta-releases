@@ -18,7 +18,7 @@
 
 [![Probar la demo](https://img.shields.io/badge/▶_Probar_la_demo_web-2563eb?style=for-the-badge)](https://narufortix.github.io/crypta-releases/)
 [![Descargar Windows](https://img.shields.io/badge/⬇_Descargar_Windows-1f2937?style=for-the-badge)](https://github.com/narufortix/crypta-releases/releases)
-[![Local-first](https://img.shields.io/badge/100%25_local-10b981?style=for-the-badge)](#privacidad)
+[![Local-first](https://img.shields.io/badge/100%25_local-10b981?style=for-the-badge)](#tecnologías)
 
 <br/>
 
